@@ -1,0 +1,30 @@
+====================================
+===README-LABASS2-CRAPS SIMULATOR===
+====================================
+
+1. Compiling
+
+To compile the application, simply
+run "make" from the program's
+working directory in a terminal.
+Program will compile with no issues.
+
+If you wish to remove any additional
+unnecessary files, type "make clean"
+to remove the executable and any
+.o files generated with the build
+process.
+
+2. Running
+
+Simply type "./LabAss2" in a terminal
+to run the application. You will be
+subject to a first round of a game of
+craps, then you will win or lose, then
+be asked if you want to play again.
+
+3. Credit
+- Franco Carlacci
+	Initial program code
+
+Written by Jordan Karpan (5041823)
